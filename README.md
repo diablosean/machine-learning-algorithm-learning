@@ -1,2 +1,2 @@
 # machine-learning-algorithm-learning
-note something about machine learning algorithms
+Note something about machine learning algorithms
